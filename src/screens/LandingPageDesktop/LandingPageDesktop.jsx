@@ -9,13 +9,25 @@ export const LandingPageDesktop = () => {
           <div className="col">
             <div className="logo">
               <div className="div-2">
-                <img className="dora" alt="Dora" src="https://c.animaapp.com/t9TmsY0g/img/dora-1.svg" />
+                <img
+                  className="dora"
+                  alt="Dora"
+                  src="https://c.animaapp.com/t9TmsY0g/img/dora-1.svg"
+                />
                 <div className="dora-2" />
               </div>
             </div>
             <div className="row">
-              <img className="img" alt="Facebook" src="https://c.animaapp.com/t9TmsY0g/img/facebook.svg" />
-              <img className="img" alt="Twitter" src="https://c.animaapp.com/t9TmsY0g/img/twitter.svg" />
+              <img
+                className="img"
+                alt="Facebook"
+                src="https://c.animaapp.com/t9TmsY0g/img/facebook.svg"
+              />
+              <img
+                className="img"
+                alt="Twitter"
+                src="https://c.animaapp.com/t9TmsY0g/img/twitter.svg"
+              />
               <div className="img">
                 <div className="overlap-group">
                   <div className="ellipse" />
@@ -60,7 +72,10 @@ export const LandingPageDesktop = () => {
         </footer>
         <div className="cta">
           <div className="text-wrapper-4">Engage without limits</div>
-          <p className="p">Join a growing community and talk directly with your favorites creators</p>
+          <p className="p">
+            Join a growing community and talk directly with your favorites
+            creators
+          </p>
           <button className="btn-secondary">
             <div className="text-wrapper-5">Get Started</div>
           </button>
@@ -69,7 +84,8 @@ export const LandingPageDesktop = () => {
           <div className="col-3">
             <div className="text-wrapper-6">Why become a creator?</div>
             <p className="text-wrapper-7">
-              Engage with your supporter and subscriber to sell your skills, knowledge and passions
+              Engage with your supporter and subscriber to sell your skills,
+              knowledge and passions
             </p>
             <div className="btn-primary">
               <div className="text-wrapper-8">Become a creator</div>
@@ -88,23 +104,35 @@ export const LandingPageDesktop = () => {
                   </div>
                 </div>
                 <div className="text-wrapper-9">Engagement</div>
-                <p className="text-wrapper-10">Engage on a deeper level with the fans that matter most</p>
+                <p className="text-wrapper-10">
+                  Engage on a deeper level with the fans that matter most
+                </p>
               </div>
               <div className="col-5">
                 <div className="group-wrapper">
                   <div className="group-2">
                     <div className="group-3">
                       <div className="rectangle" />
-                      <img className="vector" alt="Vector" src="https://c.animaapp.com/t9TmsY0g/img/vector-1.svg" />
+                      <img
+                        className="vector"
+                        alt="Vector"
+                        src="https://c.animaapp.com/t9TmsY0g/img/vector-1.svg"
+                      />
                     </div>
                     <div className="group-4">
-                      <img className="vector-2" alt="Vector" src="https://c.animaapp.com/t9TmsY0g/img/vector.svg" />
+                      <img
+                        className="vector-2"
+                        alt="Vector"
+                        src="https://c.animaapp.com/t9TmsY0g/img/vector.svg"
+                      />
                       <div className="rectangle-2" />
                     </div>
                   </div>
                 </div>
                 <div className="text-wrapper-9">Autonomy</div>
-                <p className="text-wrapper-10">Full autonomy on when and who you talk to.</p>
+                <p className="text-wrapper-10">
+                  Full autonomy on when and who you talk to.
+                </p>
               </div>
             </div>
             <div className="row-3">
@@ -114,7 +142,11 @@ export const LandingPageDesktop = () => {
                     <div className="overlap-group-3">
                       <div className="ellipse-6" />
                       <div className="ellipse-7" />
-                      <img className="ellipse-8" alt="Ellipse" src="https://c.animaapp.com/t9TmsY0g/img/ellipse.svg" />
+                      <img
+                        className="ellipse-8"
+                        alt="Ellipse"
+                        src="https://c.animaapp.com/t9TmsY0g/img/ellipse.svg"
+                      />
                     </div>
                   </div>
                 </div>
@@ -122,9 +154,15 @@ export const LandingPageDesktop = () => {
                 <p className="text-wrapper-10">No monthly fee or sign-up fee</p>
               </div>
               <div className="col-5">
-                <img className="group-wrapper" alt="Earn svg" src="https://c.animaapp.com/t9TmsY0g/img/earn-svg.svg" />
+                <img
+                  className="group-wrapper"
+                  alt="Earn svg"
+                  src="https://c.animaapp.com/t9TmsY0g/img/earn-svg.svg"
+                />
                 <div className="text-wrapper-9">Earn</div>
-                <p className="text-wrapper-10">Add a new source of income that you can control</p>
+                <p className="text-wrapper-10">
+                  Add a new source of income that you can control
+                </p>
               </div>
             </div>
           </div>
@@ -172,12 +210,20 @@ export const LandingPageDesktop = () => {
               </div>
               <div className="row-7">
                 <div className="text-wrapper-15">Explore the marketplace</div>
-                <img className="arrow-icon" alt="Arrow icon" src="https://c.animaapp.com/t9TmsY0g/img/arrow-icon.svg" />
+                <img
+                  className="arrow-icon"
+                  alt="Arrow icon"
+                  src="https://c.animaapp.com/t9TmsY0g/img/arrow-icon.svg"
+                />
               </div>
             </div>
           </div>
           <div className="banner">
-            <img className="img-2" alt="Img" src="https://c.animaapp.com/t9TmsY0g/img/img.png" />
+            <img
+              className="img-2"
+              alt="Img"
+              src="https://c.animaapp.com/t9TmsY0g/img/img.png"
+            />
             <div className="row-8">
               <div className="home-elem">
                 <div className="overlap-group-wrapper">
@@ -208,7 +254,11 @@ export const LandingPageDesktop = () => {
             <div className="logo">
               <div className="div-2">
                 <div className="dora-3">
-                  <img className="dora" alt="Dora" src="https://c.animaapp.com/t9TmsY0g/img/dora-1.svg" />
+                  <img
+                    className="dora"
+                    alt="Dora"
+                    src="https://c.animaapp.com/t9TmsY0g/img/dora-1.svg"
+                  />
                   <div className="dora-2" />
                 </div>
               </div>
@@ -223,6 +273,25 @@ export const LandingPageDesktop = () => {
             <div className="text-wrapper-21">Become a member</div>
             <div className="btn-primary-2">
               <div className="text-wrapper-22">Sign in</div>
+            </div>
+          </div>
+          <div className="img-2">
+            <div className="group-5">
+              <div className="group-6">
+                <div className="ellipse-10" />
+                <div className="ellipse-11" />
+                <div className="ellipse-12" />
+              </div>
+              <div className="group-7">
+                <div className="ellipse-10" />
+                <div className="ellipse-11" />
+                <div className="ellipse-12" />
+              </div>
+              <div className="group-8">
+                <div className="ellipse-10" />
+                <div className="ellipse-11" />
+                <div className="ellipse-12" />
+              </div>
             </div>
           </div>
         </div>
